@@ -13,4 +13,3 @@ def bubble_sort_by(array)
   end
   array
 end
-
