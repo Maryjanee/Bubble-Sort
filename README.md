@@ -1,14 +1,11 @@
 # Bubble Sort
 
-This project consist of implementing the bubble sort algorithm with the ruby programming language. 
+This project consists of implementing the bubble sort algorithm with the Ruby programming language. 
 
+## Requirements
 
-## Built With
-
-- Ruby
-- Rubocop
+- Ruby (2.7.1)
  
-
 ## Live Demo
 
 [Live Demo Link](https://repl.it/@MaryjaneA/DazzlingPolishedIdentifier#main.rb)
@@ -18,17 +15,18 @@ This project consist of implementing the bubble sort algorithm with the ruby pro
 
 To get a local copy of the repository please run the following commands on your terminal:
 
-$ cd <folder>
-$ git clone git@github.com:Maryjanee/Bubble-Sort.git
-​
+```
+git clone https://github.com/Maryjanee/Bubble-Sort.git
+cd Bubble-Sort
+```
 
 
 ## Usage
+
 ```
 bubble_sort([4,3,78,2,0,2]) #[0,2,2,3,4,78 ]
 
 bubble_sort_by(["hi","hello","hey"]) #["hi", "hey", "hello"]
-
 ```
 
 ## Authors
@@ -48,10 +46,11 @@ bubble_sort_by(["hi","hello","hey"]) #["hi", "hey", "hello"]
 - Twitter: [@ErshadulRayhan](https://twitter.com/ErshadulRayhan)
 
 - Linkedin: [ErshadulRayhan](https://www.linkedin.com/in/ershadul-hakim-rayhan-a5a17649/)
+
 - Email:  ershadul.rayhan@gmail.com
   ​
 
-## �� Contributing
+## Contributing
 
 - To contribute to this project:
 - Fork this repository & clone locally.
