@@ -22,6 +22,15 @@ $ cd <folder>
 $ git clone git@github.com:Maryjanee/Bubble-Sort.git
 ​
 
+
+## Usage
+```
+bubble_sort([4,3,78,2,0,2]) #[0,2,2,3,4,78 ]
+
+bubble_sort_by(["hi","hello","hey"]) #["hi", "hey", "hello"]
+
+```
+
 ## Authors
 
 👤 **Maryjane**
