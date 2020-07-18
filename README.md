@@ -38,6 +38,7 @@ bubble_sort_by(["hi","hello","hey"]) #["hi", "hey", "hello"]
 - Twitter: [@AlfredMaryjane](https://twitter.com/AlfredMaryjane)
 
 - Linkedin: [Maryjane Akpagbue](https://www.linkedin.com/in/maryjane-akpagbue-1500b7173/)
+- Email:akpagbuemaryjane@gmail.com
 
 👤 **Rayhan**
 ​
