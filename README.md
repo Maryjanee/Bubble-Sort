@@ -39,6 +39,8 @@ bubble_sort_by(["hi","hello","hey"]) #["hi", "hey", "hello"]
 
 - Linkedin: [Maryjane Akpagbue](https://www.linkedin.com/in/maryjane-akpagbue-1500b7173/)
 
+- Email: akpagbuemaryjane@gmail.com
+
 👤 **Rayhan**
 ​
 - Github: [@ershadul1](https://github.com/ershadul1)
